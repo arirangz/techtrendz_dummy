@@ -7,7 +7,7 @@
     * user@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
     * admin@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
 
-* Modifiez le fichier lib/config.php en y ajoutant les données de votre base de données.
+* Modifiez le fichier lib/config.php en y ajoutant les données de votre base de données (nous verrons plus tard comment gérer ça proprement avec un fichier .env).
 * Assurez-vous que le site fonctionne en local.
 
 ## Contexte
